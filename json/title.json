@@ -1,0 +1,4 @@
+{
+"title": "Minesweeper\n\nAlex Mair",
+"rules": "Welcome to Minesweeper\n\nYour mission is to defuse all the mines in the minefield You can move using the four commands:\nnorth\nsouth\neast\nwest\nIf you want to detonate mines use the \"detonate\" command followed by one of the above directions. Press q to quit\nCareful not to get your legs blown off!"
+}
